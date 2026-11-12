@@ -1,0 +1,9 @@
+Course Code: CS421
+Course Name: Computer System Security
+Department: Computer Science
+Year: 4
+Term: 8
+Credit Hours: 3
+Prerequisites: CS322 AND CE231
+Unlocks: None found in the required curriculum (elective prerequisites are not specified in the provided source).
+Description: The course is an introduction to computer and network security. The course encompasses the study of security mechanisms for secrecy, integrity, and availability. Topics include basic cryptography and its applications, security in computer networks and distributed systems and control and prevention of viruses and other rogue programs. In addition, hands-on experience will be provided through a series of programming assignments.

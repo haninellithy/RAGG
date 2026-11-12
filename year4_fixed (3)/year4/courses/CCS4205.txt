@@ -1,0 +1,9 @@
+Course Code: CCS4205
+Course Name: Distributed Systems
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CCS3203
+Unlocks: None
+Description: Not provided in the official academic source.

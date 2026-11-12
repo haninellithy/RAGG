@@ -1,0 +1,9 @@
+Course Code: CS401
+Course Name: Project I
+Department: Computer Science
+Year: 4
+Term: 7
+Credit Hours: 3
+Prerequisites: GPA >= 2.0 AND 93 CR or more
+Unlocks: CS402
+Description: The graduation project challenges students to go beyond the learning skills and knowledge they obtained from their educational program by developing projects that demonstrate their intellectual, technical and creative abilities. Students shall complete their projects in areas of concentrated study under the direction and supervision of faculty members. Project 1 will demonstrate the students' ability to identify a problem domain, define the problem, conduct analysis of current related projects/ commercial tools/ research, identify and specify requirements, perform analysis and design for the proposed solution.

@@ -1,0 +1,9 @@
+Course Code: CS445
+Course Name: Structure of Programming Languages
+Department: Computer Science
+Year: 4
+Term: 7
+Credit Hours: 3
+Prerequisites: CS311 AND CS321
+Unlocks: CCS4307 (Compilers), CCS4309 (Functional Programming)
+Description: A concise introduction to the essentials of imperative programming languages, focusing on principles rather than specifics, while giving examples from many programming languages. The course also covers fundamental issues in language design. Overview of programming paradigms and type systems. Models of execution control: Order of evaluation of sub-expressions; conditional execution; iteration; exceptions and exception handling. Basic concepts of functional programming are also emphasized.

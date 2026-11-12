@@ -1,0 +1,9 @@
+Course Code: CS402
+Course Name: Project II
+Department: Computer Science
+Year: 4
+Term: 8
+Credit Hours: 3
+Prerequisites: CS401
+Unlocks: None found in the required curriculum (elective prerequisites are not specified in the provided source).
+Description: In Project 2 students are expected to apply, demonstrate and integrate comprehensive knowledge acquired across various undergraduate courses. The successful completion of graduation project is an indication of the students’ preparedness to pursue a professional career. Students are expected to make significant progress based on project 1 and show their ability to implement and evaluate a computer-based solution by using appropriate tools and techniques along with producing the appropriate documentation.

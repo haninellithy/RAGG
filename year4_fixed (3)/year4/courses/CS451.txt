@@ -1,0 +1,9 @@
+Course Code: CS451
+Course Name: Human Computer Interaction
+Department: Computer Science
+Year: 4
+Term: 8
+Credit Hours: 3
+Prerequisites: SE291
+Unlocks: None found in the required curriculum (elective prerequisites are not specified in the provided source).
+Description: This course focuses on the interaction between computer systems and people who use them; introducing the analysis and design techniques that can improve the quality of interaction. Topics include design and evaluation of user interfaces, cognitive and social dynamics factors that affect usability, and software architecture considerations. While the emphasis is on conventional graphical and web-based user interfaces, alternative interface devices and technologies are also discussed. Design guidelines, evaluation methods, participatory design, communication between users and system developers.

@@ -1,0 +1,9 @@
+Course Code: CAI4201
+Course Name: Natural Language Processing
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CAI3103
+Unlocks: None
+Description: Not provided in the official academic source.

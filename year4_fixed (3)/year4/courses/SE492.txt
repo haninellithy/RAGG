@@ -1,0 +1,9 @@
+Course Code: SE492
+Course Name: Software Verification and Validation
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: Not specified in the provided source.
+Unlocks: Not specified in the provided source.
+Description: Not provided in the official academic source.

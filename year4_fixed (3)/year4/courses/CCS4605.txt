@@ -1,0 +1,9 @@
+Course Code: CCS4605
+Course Name: Robotics Applications
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CAI3101 AND CCS2103
+Unlocks: None
+Description: This course provides an introduction to the world of robotics and their software programming applications. Topics of interest include the application of microcontrollers and sensors in robotics and from the points of view of hardware and software. The course aims at introducing the students to the mathematical background behind the equations of motion of dynamics and kinematics.

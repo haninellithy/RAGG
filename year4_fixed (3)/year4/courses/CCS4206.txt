@@ -1,0 +1,9 @@
+Course Code: CCS4206
+Course Name: Network Protocols & Programming
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CCS2201 AND CCS2304
+Unlocks: None
+Description: Not provided in the official academic source.

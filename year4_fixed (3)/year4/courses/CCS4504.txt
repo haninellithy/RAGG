@@ -1,0 +1,9 @@
+Course Code: CCS4504
+Course Name: Multimedia Acquisition and Communication
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CCS2304 AND CCS2201
+Unlocks: None
+Description: Not provided in the official academic source.

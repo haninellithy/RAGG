@@ -1,0 +1,9 @@
+Course Code: CIT4803
+Course Name: Professional Training in Multimedia III
+Department: Computer Science
+Year: 4
+Term: 8
+Credit Hours: 0
+Prerequisites: None
+Unlocks: None
+Description: Not provided in the official academic source.

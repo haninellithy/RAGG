@@ -1,0 +1,54 @@
+Year: 4
+Term: 8
+
+Courses:
+- CS421: Computer System Security (3 Credit Hours)
+- CS451: Human Computer Interaction (3 Credit Hours)
+- CS402: Project II (3 Credit Hours)
+- CIT4803: Professional Training in Multimedia III (0 Credit Hours)
+
+Major Elective options (choose from these, offered in Term 7 and Term 8, 3 Credit Hours each):
+- CAI4201: Natural Language Processing (3 Credit Hours)
+- CCS4004: Optimization Techniques (3 Credit Hours)
+- CCS4005: Introduction to Bioinformatics (3 Credit Hours)
+- CCS4205: Distributed Systems (3 Credit Hours)
+- CCS4206: Network Protocols & Programming (3 Credit Hours)
+- CCS4207: Embedded Systems Programming (3 Credit Hours)
+- CCS4208: Cloud Computing (3 Credit Hours)
+- CCS4209: Fundamentals of Internet of Things (3 Credit Hours)
+- CCS4210: High Performance Computing (3 Credit Hours)
+- CCS4307: Compilers (3 Credit Hours)
+- CCS4308: Game Programming (3 Credit Hours)
+- CCS4309: Functional Programming (3 Credit Hours)
+- CCS4404: Data Compression (3 Credit Hours)
+- CCS4405: Information Retrieval (3 Credit Hours)
+- CCS4406: Quantum Computing Algorithms (3 Credit Hours)
+- CCS4503: Virtual Environments (3 Credit Hours)
+- CCS4504: Multimedia Acquisition and Communication (3 Credit Hours)
+- CCS4505: Digital Image Processing (3 Credit Hours)
+- CCS4605: Robotics Applications (3 Credit Hours)
+- CCS4606: Natural Language Processing (3 Credit Hours)
+
+Minor Elective options (choose from these, offered in Term 7 and Term 8, 3 Credit Hours each):
+- GM315: Digital Audio & Video Fundamentals (3 Credit Hours)
+- GM317: Media Production and Editing (3 Credit Hours)
+- GM324: 3D Modeling (3 Credit Hours)
+- GM411: Computer Animation (3 Credit Hours)
+- GM424: Digital Lighting and Rendering (3 Credit Hours)
+- IS371: E-business Fundamentals (3 Credit Hours)
+- IS372: Information Systems Theory & Practice (3 Credit Hours)
+- IS374: Advanced Database Systems (3 Credit Hours)
+- IS391: Systems Analysis & Design (3 Credit Hours)
+- IS461: Decision Support Systems (3 Credit Hours)
+- IS467: Big Data Analytics (3 Credit Hours)
+- IS471: Strategic Planning for IS (3 Credit Hours)
+- SE391: Project Management (3 Credit Hours)
+- SE392: Software Requirements and Specifications (3 Credit Hours)
+- SE393: Principles of Software Architecture (3 Credit Hours)
+- SE396: Software Engineering Process (3 Credit Hours)
+- SE491: Software Component Design (3 Credit Hours)
+- SE492: Software Verification and Validation (3 Credit Hours)
+- SE493: Software Quality Assurance (3 Credit Hours)
+
+Total Credit Hours: 15
+Maximum Credit Hours (optional): 21

@@ -1,0 +1,9 @@
+Course Code: CCS4405
+Course Name: Information Retrieval
+Department: Computer Science
+Year: 4
+Term: 7 and 8
+Credit Hours: 3
+Prerequisites: CCS2401 AND EBA2204
+Unlocks: None
+Description: Not provided in the official academic source.

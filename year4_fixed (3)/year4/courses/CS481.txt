@@ -1,0 +1,9 @@
+Course Code: CS481
+Course Name: Computers and Society
+Department: Computer Science
+Year: 4
+Term: 7
+Credit Hours: 3
+Prerequisites: 96 CR or more
+Unlocks: None found in the required curriculum (elective prerequisites are not specified in the provided source).
+Description: This course focuses on the social impacts of computing technology. The course provides an introduction to ethics and history of computing and Internet. It focuses on a number of areas in which computers and information technology are having an impact on society including privacy, freedom of speech, intellectual property, work, distribution of wealth, and the environment. Current issues that will be discussed include electronic voting, spyware, spam, and intellectual property issues associated with digital content distribution. Students will understand the ethical, social, legal, and professional issues surrounding the emerging information technologies.
